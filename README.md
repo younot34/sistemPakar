@@ -1,0 +1,2 @@
+# sistemPakar
+spr_code
